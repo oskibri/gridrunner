@@ -1,4 +1,4 @@
-module github.com/gridrunner
+module github.com/oskibri/gridrunner
 
 go 1.27.1
 
